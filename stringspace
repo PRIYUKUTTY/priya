@@ -7,7 +7,7 @@ public class Solution {
         int i = scan.nextInt();
         Double d=scan.nextDouble();
         String s=scan.nextLine();
-        s+=scan.nextLine();
+        s+=scan.nextLine();//continue with string space allocation to used
         // Write your code here.
 
         System.out.println("String: " + s);
